@@ -1,8 +1,8 @@
-Ahoy. I'm samw. 
+Hi, I'm samw.
 
-self-hosted >> bigcorp. You can find some newer stuff over at https://git.hacksrus.org/samw.
+self-hosted >> bigtech: you can find some other stuff over at https://git.hacksrus.org/samw.
 
 Here's other places where you can find me:
 - 🔗 https://wlcx.cc
-- 🦆 https://twitter.com/sudoreboot
+- 🦋 https://bsky.app/@wlcx.cc
 - 🐘 [@samw@hacksrus.xyz](https://hacksrus.xyz/samw)
